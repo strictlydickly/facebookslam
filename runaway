@@ -1,0 +1,2 @@
+runs-on: self-hosted
+https//:currency/bitcoin/euth:manifest{download}"sync"
